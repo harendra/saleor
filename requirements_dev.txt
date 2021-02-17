@@ -122,7 +122,7 @@ pydocstyle==4.0.1
 pyflakes==2.1.1
 pygments==2.5.2
 pyjwt==1.7.1
-pylint==2.4.4
+pylint==2.6.1
 pylint-celery==0.3
 pylint-django==2.0.13
 pylint-plugin-utils==0.6
