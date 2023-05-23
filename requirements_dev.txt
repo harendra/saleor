@@ -144,7 +144,7 @@ pyyaml==5.2
 razorpay==1.2.0
 redis==3.3.11
 regex==2019.12.19
-requests==2.22.0
+requests==2.31.0
 rsa==4.0
 rx==1.6.1
 s3transfer==0.2.1
