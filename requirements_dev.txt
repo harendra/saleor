@@ -11,7 +11,7 @@ babel==2.7.0
 beautifulsoup4==4.7.1
 beautifultable==0.7.0
 billiard==3.6.1.0
-black==19.10b0
+black==24.3.0
 bleach==2.1.4
 boto3==1.10.41
 botocore==1.13.41
