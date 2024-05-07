@@ -83,7 +83,7 @@ html5lib==1.0.1
 identify==1.4.8
 idna==2.8
 isort==4.3.21
-jinja2==2.10.3
+jinja2==3.1.4
 jmespath==0.9.4
 jsonfield==2.0.2
 kombu==4.6.7
