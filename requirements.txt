@@ -75,7 +75,7 @@ phonenumberslite==8.11.1
 pillow==6.2.1
 prices==1.0.0
 promise==2.3
-protobuf==3.11.1
+protobuf==6.33.5
 psycopg2-binary==2.8.4
 purl==1.5
 pyasn1==0.4.8
